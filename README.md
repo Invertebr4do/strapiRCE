@@ -5,7 +5,7 @@ Strapi 3.0.0-beta - Remote Code Execution (RCE) (Unauthenticated)
  - Kali linux 2021.4a
  - Parrot security 4.11.3
  
-## Instalation:
+## Installation:
 ```
 git clone https://github.com/Invertebr4do/strapiRCE 
 
